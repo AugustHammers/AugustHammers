@@ -2,7 +2,6 @@
 - 👀 I’m interested in game and web development.
 - 🌱 I’m currently learning object oriented programming in Java for my Computer Science Degree
 - 📫 How to reach me: 
-  - https://twitter.com/HarryAugie
   - augusthammers@gmail.com
 
 <!---
