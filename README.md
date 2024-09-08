@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @AugustHammers
-- 👀 I’m interested in game and web development.
-- 🌱 I’m currently learning object oriented programming in Java for my Computer Science Degree
+- Currently working full time as a Java Developer
 - 📫 How to reach me: 
   - augusthammers@gmail.com
 
